@@ -3,4 +3,8 @@
 The extension provides full text search in browser tabs.
 
 ## Implemented features
-- `match()` 
+* Basic `tab.title`-based matching
+
+## Features to be implemented
+* Full text search-based matching
+* Elasticsearch integration
